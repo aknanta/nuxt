@@ -11,7 +11,7 @@
                 <NuxtLink to="/products" class="nav-link">Products <span class="sr-only">(current)</span></NuxtLink>
             </li>
             <li class="nav-item active">
-                <a href="#" class="nav-link">My Items <span class="sr-only">(current)</span></a>
+                <NuxtLink to="/my-items" class="nav-link">My Items <span class="sr-only">(current)</span></NuxtLink>
             </li>
         </ul>
     </div>
